@@ -4,9 +4,9 @@
 # Работа программы
 На вход подаётся квадратная матрица указанной размерности, заполненная по формуле:
 
-![equation](https://github.com/NNGU52/MatricesOperations/blob/main/screenshots/formula_1.png)
+![equation](/screenshots/formula_1.png)
 
 Программа находит и отображает обратную матрицу, результат проверки того, что матрица действительно обратная (единичную матрицу), число обусловленности матрицы и детерминант.
 
 # Результат работы программы
-![screenshot](https://github.com/NNGU52/MatricesOperations/raw/main/screenshots/console.png)
+![screenshot](/screenshots/console.png)
